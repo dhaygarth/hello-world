@@ -6,17 +6,17 @@ Hell World BoilerPlate Repo for Wigan Coding Meet Up. Explanitary purposes.
 
 Clone this repo into your projects folder on your computer
 
-### Installing
+* [hello-world](git@github.com:Wigan-Coding-Meet-Up/hello-world.git)
 
-A step by step series of examples that tell you how to get a development env running
+### Installing
 
 Navigate to the repo you have cloned
 
 ```
-CD Desktop, CD hello-world
+CD Desktop, CD projects, CD hello-world
 ```
 
-Then open the Inde.html page in the browser
+Then open the Index.html page in the browser
 
 ```
 open index.html
