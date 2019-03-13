@@ -1,6 +1,6 @@
 # Hello World
 
-Hell World BoilerPlate Repo for Wigan Coding Meet Up. Explanitary purposes.
+Hello World BoilerPlate Repo for Wigan Coding Meet Up. Explanitary purposes.
 
 ## Getting Started
 
