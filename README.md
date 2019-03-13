@@ -4,19 +4,19 @@ Hell World BoilerPlate Repo for Wigan Coding Meet Up. Explanitary purposes.
 
 ## Getting Started
 
-Clone this repo into your projects folder on your computer
+ Fork and Clone this repo into your projects folder on your computer.
 
-* [hello-world](git@github.com:Wigan-Coding-Meet-Up/hello-world.git)
+* [hello-world](https://github.com/Wigan-Coding-Meet-Up/hello-world.git)
 
 ### Installing
 
-Navigate to the repo you have cloned
+Navigate to the repo you have forked and cloned.
 
 ```
 CD Desktop, CD projects, CD hello-world
 ```
 
-Then open the Index.html page in the browser
+Then open the Index.html page in the browser.
 
 ```
 open index.html
