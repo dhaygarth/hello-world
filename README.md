@@ -22,6 +22,12 @@ Then open the Index.html page in the browser.
 open index.html
 ```
 
+For Windows users.
+
+```
+start index.html
+```
+
 You should now see a blank page in the browser with a welcome message.
 
 ## Built With
